@@ -1,7 +1,7 @@
 # pydockerize
 Creating docker containers for Python usage with Jupyter notebooks
 
-Run [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/)
+Set up [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/) to run your git projects using Docker.
 
 
 ## Requirements
